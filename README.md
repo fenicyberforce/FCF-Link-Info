@@ -21,7 +21,6 @@
 * 🔐 **Permission & Security Analysis:** Public permissions, edit/download/comment capabilities
 * 🔑 **Password Pattern Generator:** Owner info থেকে সম্ভাব্য password ideas
 * 🖥️ **Beautiful UI + Animation:** ASCII banner, colored output, loading animation
-* 🔗 **Auto Social Verification:** Facebook & Telegram links open in correct sequence
 
 ---
 
