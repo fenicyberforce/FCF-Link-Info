@@ -381,8 +381,8 @@ class FCFLinkInfo:
             return
         
         print(f"\n{Colors.GREEN}{Colors.BRIGHT}┌────────────────────────────────────────────────────────┐")
-        print("│              DOCUMENT ANALYSIS RESULTS              │")
-        print("└────────────────────────────────────────────────────────┘{Colors.RESET}")
+        print("│              DOCUMENT ANALYSIS RESULTS                │")
+        print("└────────────────────────────────────────────────────────┘")
         
         # Display basic document information
         basic_info_shown = False
