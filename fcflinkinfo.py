@@ -39,7 +39,7 @@ init(autoreset=True)
 TOOL_NAME = "FCF LINK INFO"
 VERSION = "3.1.1"
 DEVELOPER = "Feni Cyber Force"
-FACEBOOK_PAGE = "https://www.facebook.com/feni_cyber_force_official"
+FACEBOOK_PAGE = "https://www.facebook.com/feni.cyber.force.official"
 TELEGRAM_CHANNEL = "https://t.me/feni_cyber_force"
 TELEGRAM_HELPLINE = "@FCF_helping_bot"
 
@@ -97,13 +97,13 @@ class FCFBanner:
         print("│              ADVANCED DOCUMENT ANALYZER                │")
         print("│              Version 3.1.1                             │")
         print("│                                                        │")
-        print("│    Facebook: facebook.com/feni_cyber_force_official    │")
+        print("│    Facebook: facebook.com/feni.cyber.force.official    │")
         print("│    Telegram: t.me/feni_cyber_force                     │")
         print("│    Helpline: @FCF_helping_bot                          │")
         print("│    Developer: Feni Cyber Force                         │")
         print("│                                                        │")
         print("└────────────────────────────────────────────────────────┘")
-        print(f"{Colors.RESET}")
+        print()
         print()
 
 class PasswordGenerator:
